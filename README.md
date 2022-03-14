@@ -1,3 +1,3 @@
-# This is a sample readme file
+# Target completion
 
-Hello World!
+Please submit your target files in this repository
