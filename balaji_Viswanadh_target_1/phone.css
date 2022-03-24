@@ -1,0 +1,41 @@
+/*home*/
+#HOME{
+    height: 820px;
+}
+.heading{
+    font-size: 1.7rem;
+}
+/*about*/
+#pic img{
+    width: 300px;
+    height: 175;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+/*eduction*/
+#EDUCTION h1{
+    font-size: 1.7rem;
+}
+#pho{
+    width: 300px;
+    height: 175;
+
+}
+#edu{
+    font-size :1.5em; 
+}
+#contact h1{font-size: 1.7rem;
+
+}
+/*contact*/
+.input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+#send{width: 20%;}
+
+
+
